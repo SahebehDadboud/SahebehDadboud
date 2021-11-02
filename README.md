@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahebehDadboud
 - 👀 I’m interested in Data Science, but currently getting my way through Data Engneering. 
-- 🌱 I’m currently learning Cloud Engeeering, specifily in Microsoft Azure.
+- 🌱 I’m currently learning Cloud Engeeering, specifically in Microsoft Azure.
 - 📫 You can reach me Via my Email: sahebedadboud@gmail.com
 
 <!---
